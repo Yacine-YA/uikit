@@ -2486,33 +2486,7 @@ var links = [
     },
 ];
 var socials = [
-    {
-        label: "Telegram",
-        icon: "TelegramIcon",
-        items: [
-            {
-                label: "Annoucements",
-                href: "https://t.me/MozartFinanceAnn",
-            },
-            {
-                label: "English",
-                href: "https://t.me/MozartFinance",
-            },
-            {
-                label: "Espanol",
-                href: "https://t.me/MozartFinanceEs",
-            },
-            {
-                label: "Japan",
-                href: "https://t.me/MozartFinanceJPN",
-            },
-        ],
-    },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/MozartFinance",
-    },
+
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
